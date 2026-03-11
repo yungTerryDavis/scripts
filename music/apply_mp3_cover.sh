@@ -1,0 +1,1 @@
+/home/ngumbk/.local/bin/apply_mp3_cover.sh
