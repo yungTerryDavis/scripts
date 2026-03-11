@@ -1,0 +1,1 @@
+/usr/local/bin/hypr-monitor-handler.sh
